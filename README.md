@@ -120,9 +120,6 @@ All content is in `index.html`. To update:
 ## Contact
 
 **Parthiv Patel**
-
-- Email: [patelparthiv008@gmail.com](mailto:patelparthiv008@gmail.com)
-- Phone: +91 9081347845
 - LinkedIn: [linkedin.com/in/patel-parthiv-630252370](https://linkedin.com/in/patel-parthiv-630252370)
 - GitHub: [github.com/ParthivPatel14-coder](https://github.com/ParthivPatel14-coder)
 - Location: Ahmedabad, Gujarat, India
