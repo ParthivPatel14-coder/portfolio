@@ -2,7 +2,7 @@
 
 A clean, responsive personal portfolio website built with pure HTML, CSS, and vanilla JavaScript. No frameworks, no build tools — just fast, lightweight, and deployable anywhere.
 
-**Live site →** [your-live-url.com](https://your-live-url.com)
+**Live site →** https://parthivpatel14-coder.github.io/portfolio/
 
 ---
 
